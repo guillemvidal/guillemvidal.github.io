@@ -1,18 +1,40 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hutter":
+  - firstname: ["Swen", "S."]
+    url: https://www.swen-hutter.eu
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kriesi":
+  - firstname: ["Hanspeter", "H."]
+    url: https://en.wikipedia.org/wiki/Hanspeter_Kriesi
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Muro":
+  - firstname: ["Diego", "D."]
+    url: https://diegomuro.com
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Vlaskamp": 
+  - firstname: ["Martijn", "Martijn C."]
+    url: http://www.martijnvlaskamp.eu
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Grande": 
+  - firstname: ["Edgar", "E."]
+    url: https://wzb.eu/en/persons/edgar-grande
+
+"Sánchez-Vı́tores": 
+  - firstname: ["Irene", "I."]
+    url: https://www.researchgate.net/profile/Irene_Sanchez_Vitores
+
+"Bremer": 
+  - firstname: ["Björn", "Bjorn", "B."]
+    url: http://www.bjoern-bremer.com
+
+"Hernández":
+  - firstname: ["Enrique"]
+    url: https://enriquehernandez.eu
+
+"Gil":
+  - firstname: ["Carlos J.", "Carlos", "C. J.", "Carlos"]
+    url: https://me.eui.eu/carlos-javier-gil-hernandez/
+
+
+
+
+

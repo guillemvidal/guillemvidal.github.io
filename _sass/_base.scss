@@ -170,7 +170,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icon {
-    font-size: 4rem;
+    font-size: 3.5rem;
     a {
       color: var(--global-icon-color);
       &:hover {
@@ -192,6 +192,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+	text-align: center;
   }
   a {
     color: var(--global-footer-link-color);

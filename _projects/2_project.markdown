@@ -1,77 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title:  PhD Thesis
+description: The Political Consequences of the Great Recession in Southern Europe
+img: /assets/img/PhD.jpg
+importance: 3
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Great Recession constituted a breaking point in several aspects of the cultural, economic and political life of southern European countries (i.e. Greece, Italy, Portugal and Spain). This dissertation aims to shed light on the political consequences of the economic crisis in this region -with a specific focus on Spain as a paradigmatic case- by analysing different aspects of the political transformations that took place during the period of crisis. The underlying argument is that, albeit some relevant differences, the four countries experienced a common pattern: the incapacity of national politics to offer differentiated recipes to the deteriorating economic situation triggered a widespread crisis of representation that introduced new issues in the political agenda and drove the political transformations in these countries.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The combination of a political and economic crisis at the national and European levels opened new political spaces that new parties capitalised by appealing to the need for democratic renewal and opposition to austerity politics. Furthermore, as illustrated by the Spanish case, and in particular the Catalan experience, the political crisis had far-reaching consequences beyond economic grievances, leading to the activation of different types of conflicts. Overall, the findings suggest that the transformations in the structure of political conflict in southern Europe in the aftermath of the Great Recession are not the by-product of a growing cultural divide -as is the case in several other continental and north-European countries-, but instead respond to the loss of credibility in the political system. Methodologically, the dissertation relies on an original dataset of media content as well as on several sources of survey data to test the empirical validity of the claims.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+Defended in 2019. [Project Website](https://cadmus.eui.eu/handle/1814/63265).
