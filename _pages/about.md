@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:
+description: Social Science Research
 
 profile:
   align: right
