@@ -24,7 +24,7 @@ repository: guillemvidal/guillemvidal.github.io
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
