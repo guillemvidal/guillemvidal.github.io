@@ -20,7 +20,7 @@ I obtained my Ph.D. in Social and Political Sciences from the [European Universi
 
 With a background in [economics](https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use) and [international relations](https://www.ibei.org/en/master-international-relations), I have a multidisciplinary approach to my areas of interest, which span across the fields of comparative politics, political economy, and political sociology.
 
-My work has been published in <i>West European Politics</i>, <i>Party Politics</i>, <i>Nations & Nationalism</i> and <i>Cambridge University Press</i>, among others. You can have a look at my [publications](publications.md) and my profile on [Google scholar](https://scholar.google.com/citations?user=QOsowRMAAAAJ) and [Researchgate](https://www.researchgate.net/profile/Guillem_Vidal/), where most of my work can be dowloaded in open access.
+My work has been published in <i>West European Politics</i>, <i>Party Politics</i>, <i>Nations & Nationalism</i> and <i>Cambridge University Press</i>, among others. You can have a look at my [publications](/research) and my profile on [Google scholar](https://scholar.google.com/citations?user=QOsowRMAAAAJ) and [Researchgate](https://www.researchgate.net/profile/Guillem_Vidal/), where most of my work can be dowloaded in open access.
 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
