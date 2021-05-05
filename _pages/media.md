@@ -8,6 +8,7 @@ nav: true
 
 #### Op-eds:
 
+* [El triunfo de la injusticia en Madrid](https://agendapublica.es/el-triunfo-de-la-injusticia-en-madrid/).  _Agenda Pública_, May 3, 2021.
 * [¿’La pela es la pela’? Renta, clase social y secesionismo](http://agendapublica.elpais.com/la-pela-es-la-pela-renta-clase-social-y-secesionismo/). Con [Carlos J. Gil](https://me.eui.eu/carlos-javier-gil-hernandez/) _Agenda Pública - El País_, Dicember 22, 2019.
 * [El mundo de hoy](https://elpais.com/elpais/2019/03/25/opinion/1553524807_877132.html). _El País_, March 26, 2019.
 * [Catalonia Dreaming?](https://www.socialeurope.eu/catalonia-dreaming). _Social Europe_, September 28, 2017.
