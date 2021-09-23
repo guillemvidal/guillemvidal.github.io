@@ -1,0 +1,18 @@
+---
+layout: page
+title: DIGCLASS
+description: Social Classes in the Digital Age (DIGCLASS)
+img: /assets/img/DC.jpg
+importance: 1
+---
+
+There is an increasing concern in Europe about the implications of the digital revolution for social inequalities. The DIGCLASS project will revise existing theoretical and empirical approaches to social class analysis in the social sciences and update them to address the challenges posed by technological transformations. Our work will propose new taxonomies and analytical tools, it will assess whether the traditional links between social position and life chances are altered by digitalisation and whether new needs in terms of social protection are required in current societies.
+
+DIGCLASS aims to apply them to contemporary phenomena such as:
+- The decline of the middle class
+- Job polarisation
+- Effects of digital technologies on inequalities
+- Life chances
+- The emergence of new types of economic relations
+
+[Project Website](https://ec.europa.eu/jrc/en/research/centre-advanced-studies/digclass).

@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  PhD Thesis
-description: The Political Consequences of the Great Recession in Southern Europe
-img: /assets/img/PhD.jpg
-importance: 3
+title: POLCON 
+description: Political Conflict in Europe in the Shadow of the Great Recession (ERC)
+img: /assets/img/POLCON.jpg
+importance: 1
 ---
 
-The Great Recession constituted a breaking point in several aspects of the cultural, economic and political life of southern European countries (i.e. Greece, Italy, Portugal and Spain). This dissertation aims to shed light on the political consequences of the economic crisis in this region -with a specific focus on Spain as a paradigmatic case- by analysing different aspects of the political transformations that took place during the period of crisis. The underlying argument is that, albeit some relevant differences, the four countries experienced a common pattern: the incapacity of national politics to offer differentiated recipes to the deteriorating economic situation triggered a widespread crisis of representation that introduced new issues in the political agenda and drove the political transformations in these countries.
+The ERC research program POLCON assesses the contemporary development of European democracies and the politicization of the European integration process in the shadow of the Great Recession which started with the breakdown of Lehman Brothers in Autumn 2008 and is still ongoing. To grasp the political consequences of the economic crisis, the project proposes a combination of a comparative-static analysis of thirty European countries and a dynamic analysis of political conflict in a selected number of cases. It intends to link the study of elections to the study of political protest, covering Western, Southern, as well as Central and Eastern European countries.
 
-The combination of a political and economic crisis at the national and European levels opened new political spaces that new parties capitalised by appealing to the need for democratic renewal and opposition to austerity politics. Furthermore, as illustrated by the Spanish case, and in particular the Catalan experience, the political crisis had far-reaching consequences beyond economic grievances, leading to the activation of different types of conflicts. Overall, the findings suggest that the transformations in the structure of political conflict in southern Europe in the aftermath of the Great Recession are not the by-product of a growing cultural divide -as is the case in several other continental and north-European countries-, but instead respond to the loss of credibility in the political system. Methodologically, the dissertation relies on an original dataset of media content as well as on several sources of survey data to test the empirical validity of the claims.
+This project proposes to study the structuration of political conflict in Europe, based on the analysis of political contestation in the electoral arena, the protest arena, and in issue specific public interactions. Since few studies worked on the interactions between elections and political protest, we focus on the interactions between these two political arenas and the actors respectively involved in each. The key question is whether the Great Recession and its consequences are changing the long-term trends in the development of political conflict in Europe as they have been previously assessed. In order to answer this overarching research question, the project will be based on survey data and on an original content analysis of protest events, election campaigns, and issue-specific public contestation across territorial levels and political arenas.
 
-Defended in 2019. [Project Website](https://cadmus.eui.eu/handle/1814/63265).
+[Project Website](https://www.eui.eu/Projects/POLCON).

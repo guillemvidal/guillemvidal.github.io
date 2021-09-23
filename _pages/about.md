@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a policy officer at the [Joint Research Center](https://ec.europa.eu/jrc/en), where I work on the interaction between inequality, digitalization and social policy.
+Welcome! I am a social science researcher at the [Joint Research Center](https://ec.europa.eu/jrc/en), where I am part of the [DIGCLASS](https://ec.europa.eu/jrc/en/research/centre-advanced-studies/digclass) project focusing on the interaction between inequality, digitalization and social policy.
 
 I obtained my Ph.D. in Social and Political Sciences from the [European University Institute](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx). I have also been a postdoctoral researcher at the [Berlin Social Science Center](https://wzb.eu/en) and at the [Geschwister-Scholl-Institut](https://www.gsi.uni-muenchen.de/index.html). 
 
