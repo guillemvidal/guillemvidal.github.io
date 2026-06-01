@@ -19,7 +19,7 @@
 
     --max-width: 1100px;
     --spacing-base: 40px;
-    --spacing-section: 100px;
+    --spacing-section: 72px;
 }
 
 html {
@@ -176,8 +176,8 @@ section:last-of-type {
 
 /* Bio Section */
 .bio-section {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .bio-container {
@@ -199,6 +199,13 @@ section:last-of-type {
 
 .bio-content {
     flex: 1;
+}
+
+.welcome-kicker {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: var(--color-muted);
+    margin-bottom: 0.5rem;
 }
 
 .bio-content h1 {
@@ -400,7 +407,7 @@ section:last-of-type {
 /* Contact Section */
 .contact-section {
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
 }
 
 .contact-section h2 {
@@ -472,6 +479,10 @@ footer {
     .bio-image {
         width: 100%;
         max-width: 300px;
+    }
+
+    .welcome-kicker {
+        font-size: 1.2rem;
     }
 
     .bio-content h1 {
