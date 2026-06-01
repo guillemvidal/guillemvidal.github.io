@@ -222,6 +222,9 @@ section:last-of-type {
 
 .bio-content {
     flex: 1;
+    /* Reserve a consistent height so switching languages (Spanish runs a line
+       longer) doesn't shift the divider and the section titles below it. */
+    min-height: 560px;
 }
 
 .bio-content h1 {
@@ -496,6 +499,10 @@ footer {
     .bio-image {
         width: 100%;
         max-width: 300px;
+    }
+
+    .bio-content {
+        min-height: 0;
     }
 
     .bio-content h1 {
