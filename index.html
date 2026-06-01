@@ -286,6 +286,16 @@
                 }
             });
         });
+
+        // Keep the anchor-jump offset in sync with the sticky header's actual
+        // height, which can grow to two rows on narrow screens.
+        const header = document.querySelector('header');
+        function syncScrollPadding() {
+            if (!header) return;
+            document.documentElement.style.scrollPaddingTop = (header.offsetHeight + 16) + 'px';
+        }
+        syncScrollPadding();
+        window.addEventListener('resize', syncScrollPadding);
     </script>
 </body>
 </html>
