@@ -475,6 +475,32 @@ footer {
     color: var(--color-muted);
 }
 
+/* 404 page */
+.notfound {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 25vh var(--spacing-base) 0;
+    text-align: center;
+}
+
+.notfound-code {
+    font-size: 1.2rem;
+    letter-spacing: 0.2em;
+    color: var(--color-light);
+    margin-bottom: 0.5rem;
+}
+
+.notfound h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.notfound-text {
+    font-size: 1.2rem;
+    color: var(--color-muted);
+    margin-bottom: 2rem;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
     :root {
