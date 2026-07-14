@@ -186,37 +186,38 @@
                             <span class="media-meta">El País, 2019</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="https://www.socialeurope.eu/catalonia-dreaming" target="_blank" rel="noopener">
                             <span class="media-title">Catalonia Dreaming?</span>
                             <span class="media-meta">Social Europe, 2017</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://revistatreball.cat/menys-atrinxerament-nacional-mes-redistribucio/" target="_blank" rel="noopener">
                             <span class="media-title">Menys atrinxerament nacional, més redistribució</span>
                             <span class="media-meta">Revista Treball, 2017</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://www.eldiario.es/piedrasdepapel/Conflicto-Politico-Espana-campanas-electorales_6_529207096.html" target="_blank" rel="noopener">
                             <span class="media-title">¿Cómo ha cambiado la crisis nuestro conflicto político?</span>
                             <span class="media-meta">eldiario.es, 2016</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://blogs.lse.ac.uk/europpblog/2014/03/13/persistent-unemployment-poses-a-substantive-threat-to-democracy-in-southern-european-countries/" target="_blank" rel="noopener">
                             <span class="media-title">Persistent unemployment poses a substantive threat to democracy</span>
                             <span class="media-meta">LSE Blog, 2014</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://www.eldiario.es/agendapublica/nueva-politica/Gobiernos-Irresponsables_0_320218258.html" target="_blank" rel="noopener">
                             <span class="media-title">Gobiernos (Ir)responsables</span>
                             <span class="media-meta">eldiario.es, 2014</span>
                         </a>
                     </article>
                 </div>
+                <button class="media-more" data-en="Show more" data-es="Ver más" data-ca="Mostra'n més">Show more</button>
             </div>
 
             <div class="media-subsection">
@@ -240,25 +241,26 @@
                             <span class="media-meta">Financial Times, 2017</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://politica.elpais.com/politica/2016/11/14/actualidad/1479150607_282338.html" target="_blank" rel="noopener">
                             <span class="media-title">De Trump a Podemos: qué es exactamente el populismo</span>
                             <span class="media-meta">El País, 2016</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://nearfuturesonline.org/occupational-options-the-political-trajectories-of-social-movements-in-southern-europeresilientrising-lefts/" target="_blank" rel="noopener">
                             <span class="media-title">Occupational Options: Political Trajectories of Social Movements</span>
                             <span class="media-meta">Near Futures, 2016</span>
                         </a>
                     </article>
-                    <article class="media-item">
+                    <article class="media-item is-hidden">
                         <a href="http://www.infolibre.es/noticias/mundo/2015/01/24/una_victoria_syriza_dia_1_27207_1022.html" target="_blank" rel="noopener">
                             <span class="media-title">El día 1 tras una victoria de Syriza</span>
                             <span class="media-meta">Infolibre, 2015</span>
                         </a>
                     </article>
                 </div>
+                <button class="media-more" data-en="Show more" data-es="Ver más" data-ca="Mostra'n més">Show more</button>
             </div>
         </section>
 
@@ -308,6 +310,15 @@
                 document.querySelectorAll('[data-en][data-es]').forEach(el => {
                     el.innerHTML = el.dataset[lang] || el.dataset.en;
                 });
+            });
+        });
+
+        // "Show more" — reveal the rest of a media list, then drop the button
+        document.querySelectorAll('.media-more').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const sub = btn.closest('.media-subsection');
+                sub.querySelectorAll('.media-item.is-hidden').forEach(el => el.classList.remove('is-hidden'));
+                btn.remove();
             });
         });
 
