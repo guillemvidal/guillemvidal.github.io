@@ -423,6 +423,29 @@ section:last-of-type {
     white-space: nowrap;
 }
 
+.media-item.is-hidden {
+    display: none;
+}
+
+.media-more {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0;
+    background: none;
+    border: none;
+    font-family: var(--font-main);
+    font-size: 1rem;
+    color: var(--color-muted);
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.media-more:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+    text-decoration-color: var(--color-hover);
+}
+
 /* Contact Section */
 .contact-section {
     text-align: center;
